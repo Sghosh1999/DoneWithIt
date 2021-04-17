@@ -6,5 +6,6 @@ export default {
     listingcolor: '#f8f8ff',
     medium:"#6e6969",
     lightgrey:"#fafafa",
+    dark: "#0c0c0c",
     danger:"#ff5252",
 };
